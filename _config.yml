@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "mxmn"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Machine Learning - Software Engineering - Public Speaking - Learning"
