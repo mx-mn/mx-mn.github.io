@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "mxmn"
+title                    : "🏠"
 title_separator          : "-"
 name                     : &name "Maximilian Burger"
 description              : &description "Machine Learning - Software Engineering - Public Speaking - Learning"
